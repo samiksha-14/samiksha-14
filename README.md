@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @samiksha mahure
-- 👀 I’m interested in coding, problem solving ,designing and art
-- 🌱 I’m currently learning Data structures and algorithms 
-- 💞️ I’m looking to collaborate on web developlment projects
-- 📫 How to reach me email me or reach out to me on linkedn.
+- 👋 Hey! 
+I am samiksha mahure, currently in my second year of bachelor's in computer science. 👩‍🎓
+Talking about my technical skills I'm skilled in c/c++ , HTML and CSS. 
+Apart from technology I am inclined towards art🎨, designing and books📚.
+If you want I can create pretty graphics for you, and sketches as well.
+Currently honing my skillset of DSA and web development and turning my hands to open source, if you have ken about open source, it would be great if you give a piece of advice to me on that😀.
 
 <!---
 samiksha-5/samiksha-5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
