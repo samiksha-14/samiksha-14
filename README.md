@@ -14,7 +14,7 @@
 <a href="https://twitter.com/samiksha_mahure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samiksha_mahure" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/samiksha-mahure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samiksha-mahure" height="30" width="40" /></a>
 <a href="https://www.behance.net/samikshamahure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/samikshamahure" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/samikshamahure70/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/samikshamahure70/" height="30" width="40" /></a>
+<a href="https://www.leetcoode.com/samikshamahure70/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/samikshamahure70/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
