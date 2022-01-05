@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samiksha Mahure</h1>
 <h3 align="center">Currently in my junior year of bachelor's in computer science👩‍🎓.Apart from technology I am inclined towards art🎨,books📚 UI/UX design and HCI.</h3>
 
-- 🌱 I’m currently learning **React and Back-end Web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/samiksha-14](https://github.com/samiksha-14)
-
-- 💬 Ask me about **DSA,Frontend Technologies,UI/UX**
 
 - 📫 How to reach me **samikshamahure14@gmail.com**
 
@@ -14,7 +11,7 @@
 <a href="https://twitter.com/samiksha_mahure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samiksha_mahure" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/samiksha-mahure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samiksha-mahure" height="30" width="40" /></a>
 <a href="https://www.behance.net/samikshamahure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/samikshamahure" height="30" width="40" /></a>
-<a href="https://www.leetcoode.com/samikshamahure70/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/samikshamahure70/" height="30" width="40" /></a>
+<a href="https://www.leetcode.comsamikshamahure70/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/samikshamahure70/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
