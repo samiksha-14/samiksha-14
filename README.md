@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samiksha Mahure</h1>
-<h3 align="center">Currently in my junior year of bachelor's in computer science👩‍🎓.Apart from technology I am inclined towards art🎨,books📚 UI/UX design and HCI.</h3>
+<h3 align="center">An aspiring Software Engineer pursuing bachelor's in computer science👩‍🎓.Apart from technology I am inclined towards art🎨,books📚 UI/UX design and HCI.</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/samiksha-14](https://github.com/samiksha-14)
